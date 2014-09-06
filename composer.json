@@ -1,5 +1,6 @@
 {
     "name": "alvsystems/sagepay-php-sdk",
+	"version": "dev-master",
 	"autoload": {
 		"files": ["lib/sagepay.php"]
     }
