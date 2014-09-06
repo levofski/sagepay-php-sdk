@@ -1,6 +1,6 @@
 {
     "name": "alvsystems/sagepay-php-sdk",
-    "description": "The official Sage Pay PHP SDK for server and direct integrations in a composer compatible source with autoloader.",
+    "description": "The official Sage Pay PHP SDK for server and direct integrations.",
     "keywords": [
         "sagepay",
         "gateway",
