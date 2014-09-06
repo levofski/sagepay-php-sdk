@@ -12,7 +12,7 @@
             "name": "Alvin Chevolleaux",
             "email": "alvin@alvinchevolleaux.com"
         }
-    ]
+    ],
     "autoload": {
 		"files": ["lib/sagepay.php"]
     }
