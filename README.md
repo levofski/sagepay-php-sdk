@@ -5,16 +5,6 @@ Official Sage Pay PHP SDK for server and direct integrations
 
 This repo takes the official Sage Pay V3 PHP SDK and turns it into a composer compatible include for use with modern frameworks. No code has been modified from the existing Sage Pay code so it allows you to build your own wrappers for your integration.
 
-Updates
--------
-
-I couldn't find any versioning info for the SagePay PHP SDK so please check yourself if you think this archive may be out of date or better yet you can make a request to update this repo yourself!
-
-Copyright
----------
-
-The SDK belongs to SagePay and is their intellectual property. No license information is available but this is a publicly accessible source code. I do not intend any copyright infringement and am simply creating a wrapper to aid developers (including myself) to use the SagePay SDK in their composer compatible projects.
-
 Installation
 ------------
 
@@ -51,3 +41,18 @@ $api->setBasket($basket);
 </code>
 
 There is a working demo if you download the official SagePay PHP SDK at: http://www.sagepay.co.uk/support/find-an-integration-document/server-integration-documents
+
+Updates
+-------
+
+I couldn't find any versioning info for the SagePay PHP SDK so please check yourself if you think this archive may be out of date or better yet you can make a request to update this repo yourself!
+
+Copyright
+---------
+
+The SDK belongs to SagePay and is their intellectual property. No license information is available but this is a publicly accessible source code. I do not intend any copyright infringement and am simply creating a wrapper to aid developers (including myself) to use the SagePay SDK in their composer compatible projects.
+
+Contact
+-------
+
+If you need to contact me you can get in touch with me via my website: http://www.alvinchevolleaux.com
