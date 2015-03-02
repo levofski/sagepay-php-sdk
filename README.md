@@ -5,6 +5,10 @@ Sage Pay PHP SDK for server and direct integrations (based on the official Sage 
 
 This repo takes the official Sage Pay V3 PHP SDK and turns it into a composer compatible include for use with modern frameworks. No code has been modified from the existing Sage Pay code so it allows you to build your own wrappers for your integration. This is not an official Sage Pay package.
 
+Warning
+-----------
+I make no warranty whatsoever for use of this repository and the code within it. Please always check source code yourself especially when using third-party payment software. It is your responsibility to check for exploits, vulnerabilities in the source code if you are using it in any project. The code has not been modified by myself but this repository could potentially be compromised by a third-party, you should verify the code yourself if using it. The source code itself is mainly provided by Sage Pay themselves but I also make no warranty for thier work. If you would like to use this repository in a commercial project it is recommended you download the official Sage Pay integration files from http://www.sagepay.co.uk/support/find-an-integration-document/form-integration and create your own wrappers using this repo as a guide.
+
 Installation
 ------------
 
